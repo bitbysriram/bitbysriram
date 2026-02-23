@@ -46,6 +46,11 @@ INDIA
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🔐 Cybersecurity Tools
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 ---
 
 # 🚀 Featured Projects
@@ -58,12 +63,16 @@ INDIA
 
 👉 Repo: https://github.com/bitbysriram/Supply-Chain-Optimization-System  
 
-### 🔐 Cybersecurity Honeypot Lab
-- Deployed honeypot & monitored attacker activity  
-- Log analysis & intrusion detection  
-- Hands-on cybersecurity project  
+## 🔐 Cybersecurity Tools
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A72?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ---
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=bitbysriram&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
