@@ -1,7 +1,17 @@
+<h1 align="center">
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="40" height="55">
+  <b>Hi, I'm Sriram Satapathi</b>
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=C0C0C0&center=true&vCenter=true&width=600&lines=𝗛𝗶+%F0%9F%91%8B+𝗜'𝗺+𝗦𝗿𝗶𝗥𝗮𝗺+𝗦𝗮𝘁𝗮𝗽𝗮𝘁𝗵𝗶;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=25&center=true&vCenter=true&width=750&height=100&lines=Hey+there!+Welcome+to+my+GitHub;Java+Developer+%7C+DSA+Learner;Cybersecurity+Enthusiast+🛡️;Building+skills+one+commit+at+a+time">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SriramACs&style=flat-square&color=blue" alt="Profile Views">
+</p>
+
+## **🧔🏻About Me**
 🎓 B.Tech Student | 💻 Aspiring Data Engineer & Cybersecurity Enthusiast  
 ☕ Passionate about solving problems using Java, DSA and Object-Oriented Programming principles
 🚀 Passionate about building real-world tech projects and dashboards  
@@ -72,6 +82,11 @@ INDIA
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bitbysriram&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbysriram&theme=dark&hide_border=true&layout=compact)
+
+---
+
+### 💻 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/SriramACs?theme=dark)
 
 ---
 
