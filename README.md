@@ -72,7 +72,7 @@ INDIA
 - Power BI dashboard for business insights  
 - Supplier performance & delivery analytics  
 
-👉 Repo: https://github.com/bitbysriram/Supply-Chain-Optimization-System  
+👉 Repo : https://github.com/bitbysriram/Supply-Chain-Optimization-System  
 
 
 
