@@ -66,7 +66,17 @@ INDIA
 
 # 🚀 Featured Projects
 
-### 🔗 Supply Chain Optimization System
+### 🛡️ SSH Honeypot using Cowrie (AWS EC2)
+- Deployed a Cowrie SSH honeypot on AWS EC2 (Ubuntu) with public access (port 2222)
+- Captured brute-force login attempts using weak credentials (e.g., root, 123456)
+- Logged attacker activities like system reconnaissance (whoami, uname -a, ls) and file access (/etc/passwd)
+- Detected malicious behavior, including attempted payload downloads (wget)
+- Analyzed attacker IP addresses, commands, and session logs to study real-world attack patterns
+- Gained hands-on experience in intrusion detection and threat analysis
+
+👉 Repo: https://github.com/bitbysriram/cybersecurity-honeypot-project
+
+### 🔗 Supply Chain Optimization System  
 - Built ETL pipeline using Python & SQL  
 - Snowflake data warehouse + star schema  
 - Power BI dashboard for business insights  
